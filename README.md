@@ -20,6 +20,11 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/django.svg" alt="Django" width="40" height="40"/>
 </p>
 
+
+### Jokes
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeluse&layout=compact&theme=cobalt" alt=leeluse />
 
