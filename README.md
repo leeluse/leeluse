@@ -1,7 +1,5 @@
-<h2 align="center">github.com/leeluse</h2>
+<hh1 align="center">welcome leeluse github </h2>
   
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleeluseg&count_bg=%2379C83D&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div><h3 align="left">Connect with me:</h3>
