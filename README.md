@@ -1,5 +1,5 @@
 
-![cylinder](https://capsule-render.vercel.app/api?type=cylinder&height=70&text=Suyeon+Lee&fontAlign=20&fontAlignY=52&color=000&fontSize=50&fontColor=9D92F0&)
+![cylinder](https://capsule-render.vercel.app/api?type=cylinder&height=70&text=Suyeon+Lee&fontAlign=50&fontAlignY=52&color=000&fontSize=50&fontColor=9D92F0&)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend%20Developer-%F0%9F%92%BB-brightgreen" alt="Frontend Developer Badge"/>
