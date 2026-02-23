@@ -17,7 +17,9 @@
 
 ### 🛠️ Tech Stack
 
-  <p >
+<p >
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts,react,tailwind,figma,vscode,github&theme=dark" alt="Tech Stack" />
 </p>
-</details>
+
+
+<a href="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DieyV01fb8vc%26list%3DRDieyV01fb8vc&theme=stream&variant=purple"><img src="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DieyV01fb8vc%26list%3DRDieyV01fb8vc&theme=stream&variant=purple" alt="SoundBadge" /></a>
