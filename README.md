@@ -4,17 +4,16 @@
   ![cylinder](https://capsule-render.vercel.app/api?type=cylinder&height=70&text=Suyeon+Lee&fontAlign=50&fontAlignY=52&color=000&fontSize=50&fontColor=9D92F0&)
 </div>
 
-  <div align="center">
-      <img src="https://img.shields.io/badge/Frontend%20Developer-%F0%9F%92%BB-brightgreen" alt="Frontend Developer Badge"/>
-      <img src="https://img.shields.io/badge/-React-blue?logo=react" alt="React Badge"/>
-      <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript" alt="JavaScript Badge"/>
-  </div>
-  <br />
-  
-  <p align="center">
-    🌟 Passionate about building interactive and user-friendly web experiences
-  </p>
-  
+<div align="center">
+  <img src="https://img.shields.io/badge/Frontend%20Developer-%F0%9F%92%BB-brightgreen" alt="Frontend Developer Badge"/>
+  <img src="https://img.shields.io/badge/-Next.js-black?logo=next.js" alt="Next.js Badge"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript Badge"/>
+</div>
+<br />
+
+<p align="center">
+  🌟 Passionate about building scalable and user-friendly web experiences with Next.js and TypeScript
+</p>
 
   
   <div align="center">
